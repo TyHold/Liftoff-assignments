@@ -11,12 +11,12 @@ Julienne will be a social networking platform for cullinary-minded individuals, 
 ### Features
 Users will be able to follow other users and have the ability to add recipes they like to their own cookbook/barbook for future use. There will also be search functionality for users to look for recipes or other users
 ### Technologies
-Java
-Spring Boot
-JPA/ Hibernate
-JavaScript
-React
-Stream API
+-Java
+-Spring Boot
+-JPA/ Hibernate
+-JavaScript
+-React
+-Stream API
 
 ### What I'll Have to Learn
 I will have to learn how to program in javascript for the front end scope of this app so that I am able to utilize React and the Stream API.
