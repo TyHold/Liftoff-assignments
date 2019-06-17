@@ -7,14 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Julienne will be a social networking platform for cullinary-minded individuals, designed with a simple interface in the spirit of Instagram and Twitter. This app will cut down (or julienne, if you will) all the unnecessary information that many recipe websites are bogged down with, and will place more of a focus on the creators of the recipes.
+Julienne will be a social networking platform for cullinary-minded individuals, designed with a simple interface in the spirit of Instagram and Twitter. This app will cut down (or julienne, if you will) all the unnecessary information that many recipe websites are bogged down with, and will place more of a focus on the creators of the recipes. I got the Idea for this when I was searching for a cheesecake recipe, and noticed how dated and bogged down with useless information most recipe sites are.
+
 ### Features
-Users will be able to follow other users and have the ability to add recipes they like to their own cookbook/barbook for future use. There will also be search functionality for users to look for recipes or other users
+1. Users can follow other users
+2. Users can see their curated feed based on who they follow
+3. Users can add recipes to their 'cookbook'
+4. Users can search for recipes based on ingredients/name, or for users based on username
+
 ### Technologies
 -JavaScript
 -Node.JS
 -React
--Stream API
+-MongoDB
 
 ### What I'll Have to Learn
-I will have to learn how to program in javascript for the front end scope of this app so that I am able to utilize React and the Stream API.
+1.Javascript
+2.Node.JS / React
+3. MongoDB
