@@ -23,5 +23,6 @@ Julienne will be a social networking platform for cullinary-minded individuals, 
 
 ### What I'll Have to Learn
 1.Javascript
-2.Node.JS / React
+2.Node.JS
+3. React
 3. MongoDB
