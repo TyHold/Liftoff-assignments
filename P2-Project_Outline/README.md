@@ -25,4 +25,4 @@ Julienne will be a social networking platform for cullinary-minded individuals, 
 1.Javascript
 2.Node.JS
 3. React
-3. MongoDB
+4. MongoDB
