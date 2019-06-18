@@ -7,8 +7,8 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+Link to project repo folder containing wireframes for MVP: 
+https://github.com/TyHold/Julienne/tree/master/wireframes
 
 ### Project Tracker
 
